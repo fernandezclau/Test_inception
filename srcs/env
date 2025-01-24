@@ -1,0 +1,15 @@
+DB_NAME=db
+DB_USER=usuario
+DB_PASSWORD=caraqueso
+DB_PASS_ROOT=caraqueso
+DB_HOST=mariadb
+WP_URL=claferna.42.fr
+WP_TITLE=Inception
+WP_ADMIN_USER=boss
+WP_ADMIN_PASSWORD=caraqueso
+WP_ADMIN_EMAIL=boss@mail.com
+WP_USER=theuser
+WP_PASSWORD=caraqueso
+WP_EMAIL=theuser@mail.com
+WP_ROLE=editor
+WP_FULL_URL=https://claferna.42.fr
